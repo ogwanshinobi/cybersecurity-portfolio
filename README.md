@@ -1,1 +1,1 @@
-This repository will serve as my online cybersecurity portfolio. My professional statement, as well as any projects and cybersecurity tools will be stored here. Please feel free to make any suggestions!
+This repository will serve as my online cybersecurity portfolio. My professional statement, mock reports and assessments, as well as any projects and cybersecurity tools will be stored here. Please feel free to make any suggestions!
